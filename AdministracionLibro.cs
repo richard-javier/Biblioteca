@@ -14,7 +14,7 @@ namespace ProyectoDiseñoSoft
 {
     public partial class AdministracionLibro : Form
     {
-        private Conexion conexion = new Conexion();
+        private Conexion conexion = new Conexion(Conexion);
         public AdministracionLibro()
         {
             InitializeComponent();
