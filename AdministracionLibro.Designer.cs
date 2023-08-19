@@ -2,7 +2,7 @@
 {
     partial class AdministracionLibro
     {
-        /// <summary>
+        /// <summary>adadasdasdadsasdasd
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
